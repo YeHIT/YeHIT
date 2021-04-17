@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeHIT&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeHIT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeHIT&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YeHIT/YeHIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
